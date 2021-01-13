@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -45,6 +48,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1d5JTfLlc83ChFiPg7N73A75fVx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="G:/Github/practice/DataStructure" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -179,6 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591709029259</updated>
       <workItem from="1591709034753" duration="3263000" />
+      <workItem from="1591838605186" duration="548000" />
     </task>
     <servers />
   </component>
@@ -194,6 +199,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="332" y="268" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1280.689@0.0.1280.689" timestamp="1591709356985" />
+    <state x="88" y="99" key="FileChooserDialogImpl" timestamp="1591839154968">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="88" y="99" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1591839154968" />
     <state width="845" height="162" key="GridCell.Tab.0.bottom" timestamp="1591712306007">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
